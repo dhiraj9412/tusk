@@ -6,4 +6,7 @@ pasta
 maggie
 chicken fry
 
+beans 
+bhindui
+pizza
 Thanks 
